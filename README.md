@@ -35,4 +35,8 @@ Aditya Pratap Singh
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/adityapratapsingh-hub/leetcode/tree/master/0064-minimum-path-sum) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/adityapratapsingh-hub/leetcode/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
