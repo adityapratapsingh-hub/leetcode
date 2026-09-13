@@ -33,6 +33,7 @@ Aditya Pratap Singh
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/adityapratapsingh-hub/leetcode/tree/master/0064-minimum-path-sum) |
+| [0835-image-overlap](https://github.com/adityapratapsingh-hub/leetcode/tree/master/0835-image-overlap) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/adityapratapsingh-hub/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Dynamic Programming
 |  |
@@ -43,6 +44,7 @@ Aditya Pratap Singh
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/adityapratapsingh-hub/leetcode/tree/master/0064-minimum-path-sum) |
+| [0835-image-overlap](https://github.com/adityapratapsingh-hub/leetcode/tree/master/0835-image-overlap) |
 ## Math
 |  |
 | ------- |
