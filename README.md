@@ -61,4 +61,8 @@ Aditya Pratap Singh
 |  |
 | ------- |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/adityapratapsingh-hub/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+## Linked List
+|  |
+| ------- |
+| [0328-odd-even-linked-list](https://github.com/adityapratapsingh-hub/leetcode/tree/master/0328-odd-even-linked-list) |
 <!---LeetCode Topics End-->
