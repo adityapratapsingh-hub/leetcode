@@ -39,6 +39,7 @@ Aditya Pratap Singh
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/adityapratapsingh-hub/leetcode/tree/master/0064-minimum-path-sum) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/adityapratapsingh-hub/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/adityapratapsingh-hub/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Matrix
 |  |
@@ -49,6 +50,7 @@ Aditya Pratap Singh
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/adityapratapsingh-hub/leetcode/tree/master/0009-palindrome-number) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/adityapratapsingh-hub/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -65,4 +67,12 @@ Aditya Pratap Singh
 |  |
 | ------- |
 | [0328-odd-even-linked-list](https://github.com/adityapratapsingh-hub/leetcode/tree/master/0328-odd-even-linked-list) |
+## Combinatorics
+|  |
+| ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/adityapratapsingh-hub/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+## Prefix Sum
+|  |
+| ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/adityapratapsingh-hub/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 <!---LeetCode Topics End-->
