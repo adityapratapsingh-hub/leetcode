@@ -14,18 +14,21 @@ Aditya Pratap Singh
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/adityapratapsingh-hub/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/adityapratapsingh-hub/leetcode/tree/master/0100-same-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/adityapratapsingh-hub/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/adityapratapsingh-hub/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/adityapratapsingh-hub/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/adityapratapsingh-hub/leetcode/tree/master/0100-same-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/adityapratapsingh-hub/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/adityapratapsingh-hub/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/adityapratapsingh-hub/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/adityapratapsingh-hub/leetcode/tree/master/0100-same-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/adityapratapsingh-hub/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/adityapratapsingh-hub/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -86,4 +89,8 @@ Aditya Pratap Singh
 |  |
 | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/adityapratapsingh-hub/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/adityapratapsingh-hub/leetcode/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
