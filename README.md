@@ -55,6 +55,7 @@ Aditya Pratap Singh
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/adityapratapsingh-hub/leetcode/tree/master/0009-palindrome-number) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/adityapratapsingh-hub/leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/adityapratapsingh-hub/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Breadth-First Search
 |  |
@@ -93,4 +94,8 @@ Aditya Pratap Singh
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/adityapratapsingh-hub/leetcode/tree/master/0098-validate-binary-search-tree) |
+## Geometry
+|  |
+| ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/adityapratapsingh-hub/leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
