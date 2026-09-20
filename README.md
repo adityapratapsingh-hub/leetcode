@@ -98,4 +98,12 @@ Aditya Pratap Singh
 |  |
 | ------- |
 | [1401-circle-and-rectangle-overlapping](https://github.com/adityapratapsingh-hub/leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
+## String
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/adityapratapsingh-hub/leetcode/tree/master/3498-reverse-degree-of-a-string) |
+## Simulation
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/adityapratapsingh-hub/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
