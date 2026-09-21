@@ -39,6 +39,7 @@ Aditya Pratap Singh
 | [0835-image-overlap](https://github.com/adityapratapsingh-hub/leetcode/tree/master/0835-image-overlap) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/adityapratapsingh-hub/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/adityapratapsingh-hub/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3524-find-x-value-of-array-i](https://github.com/adityapratapsingh-hub/leetcode/tree/master/3524-find-x-value-of-array-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -46,6 +47,7 @@ Aditya Pratap Singh
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/adityapratapsingh-hub/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/adityapratapsingh-hub/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/adityapratapsingh-hub/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3524-find-x-value-of-array-i](https://github.com/adityapratapsingh-hub/leetcode/tree/master/3524-find-x-value-of-array-i) |
 ## Matrix
 |  |
 | ------- |
@@ -57,6 +59,7 @@ Aditya Pratap Singh
 | [0009-palindrome-number](https://github.com/adityapratapsingh-hub/leetcode/tree/master/0009-palindrome-number) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/adityapratapsingh-hub/leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/adityapratapsingh-hub/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [3524-find-x-value-of-array-i](https://github.com/adityapratapsingh-hub/leetcode/tree/master/3524-find-x-value-of-array-i) |
 ## Breadth-First Search
 |  |
 | ------- |
