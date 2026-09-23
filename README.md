@@ -38,6 +38,7 @@ Aditya Pratap Singh
 | [0064-minimum-path-sum](https://github.com/adityapratapsingh-hub/leetcode/tree/master/0064-minimum-path-sum) |
 | [0835-image-overlap](https://github.com/adityapratapsingh-hub/leetcode/tree/master/0835-image-overlap) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/adityapratapsingh-hub/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/adityapratapsingh-hub/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/adityapratapsingh-hub/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3524-find-x-value-of-array-i](https://github.com/adityapratapsingh-hub/leetcode/tree/master/3524-find-x-value-of-array-i) |
 ## Dynamic Programming
@@ -68,6 +69,7 @@ Aditya Pratap Singh
 |  |
 | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/adityapratapsingh-hub/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/adityapratapsingh-hub/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/adityapratapsingh-hub/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Sorting
 |  |
@@ -85,14 +87,17 @@ Aditya Pratap Singh
 |  |
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/adityapratapsingh-hub/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/adityapratapsingh-hub/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Hash Table
 |  |
 | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/adityapratapsingh-hub/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/adityapratapsingh-hub/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Sliding Window
 |  |
 | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/adityapratapsingh-hub/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/adityapratapsingh-hub/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Binary Search Tree
 |  |
 | ------- |
