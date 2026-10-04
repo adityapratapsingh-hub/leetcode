@@ -13,6 +13,7 @@ Aditya Pratap Singh
 | [0020-valid-parentheses](https://github.com/adityapratapsingh-hub/leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/adityapratapsingh-hub/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0145-binary-tree-postorder-traversal](https://github.com/adityapratapsingh-hub/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0678-valid-parenthesis-string](https://github.com/adityapratapsingh-hub/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/adityapratapsingh-hub/leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/adityapratapsingh-hub/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/adityapratapsingh-hub/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -55,6 +56,7 @@ Aditya Pratap Singh
 | [0022-generate-parentheses](https://github.com/adityapratapsingh-hub/leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/adityapratapsingh-hub/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0064-minimum-path-sum](https://github.com/adityapratapsingh-hub/leetcode/tree/master/0064-minimum-path-sum) |
+| [0678-valid-parenthesis-string](https://github.com/adityapratapsingh-hub/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/adityapratapsingh-hub/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/adityapratapsingh-hub/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/adityapratapsingh-hub/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -126,6 +128,7 @@ Aditya Pratap Singh
 | [0020-valid-parentheses](https://github.com/adityapratapsingh-hub/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/adityapratapsingh-hub/leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/adityapratapsingh-hub/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/adityapratapsingh-hub/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/adityapratapsingh-hub/leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/adityapratapsingh-hub/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/adityapratapsingh-hub/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -141,6 +144,7 @@ Aditya Pratap Singh
 | [0020-valid-parentheses](https://github.com/adityapratapsingh-hub/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/adityapratapsingh-hub/leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/adityapratapsingh-hub/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/adityapratapsingh-hub/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/adityapratapsingh-hub/leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/adityapratapsingh-hub/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/adityapratapsingh-hub/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -149,4 +153,8 @@ Aditya Pratap Singh
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/adityapratapsingh-hub/leetcode/tree/master/0022-generate-parentheses) |
+## Greedy
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/adityapratapsingh-hub/leetcode/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
