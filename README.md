@@ -91,6 +91,7 @@ Aditya Pratap Singh
 ## Sorting
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/adityapratapsingh-hub/leetcode/tree/master/0389-find-the-difference) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/adityapratapsingh-hub/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Linked List
 |  |
@@ -108,6 +109,7 @@ Aditya Pratap Singh
 ## Hash Table
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/adityapratapsingh-hub/leetcode/tree/master/0389-find-the-difference) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/adityapratapsingh-hub/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/adityapratapsingh-hub/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/adityapratapsingh-hub/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -130,6 +132,7 @@ Aditya Pratap Singh
 | [0020-valid-parentheses](https://github.com/adityapratapsingh-hub/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/adityapratapsingh-hub/leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/adityapratapsingh-hub/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0389-find-the-difference](https://github.com/adityapratapsingh-hub/leetcode/tree/master/0389-find-the-difference) |
 | [0678-valid-parenthesis-string](https://github.com/adityapratapsingh-hub/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/adityapratapsingh-hub/leetcode/tree/master/0856-score-of-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/adityapratapsingh-hub/leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -164,4 +167,8 @@ Aditya Pratap Singh
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/adityapratapsingh-hub/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/adityapratapsingh-hub/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/adityapratapsingh-hub/leetcode/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
