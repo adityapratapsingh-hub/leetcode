@@ -170,5 +170,10 @@ Aditya Pratap Singh
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/adityapratapsingh-hub/leetcode/tree/master/0191-number-of-1-bits) |
 | [0389-find-the-difference](https://github.com/adityapratapsingh-hub/leetcode/tree/master/0389-find-the-difference) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/adityapratapsingh-hub/leetcode/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
