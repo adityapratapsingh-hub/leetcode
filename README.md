@@ -74,6 +74,7 @@ Aditya Pratap Singh
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/adityapratapsingh-hub/leetcode/tree/master/0009-palindrome-number) |
+| [0231-power-of-two](https://github.com/adityapratapsingh-hub/leetcode/tree/master/0231-power-of-two) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/adityapratapsingh-hub/leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/adityapratapsingh-hub/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3524-find-x-value-of-array-i](https://github.com/adityapratapsingh-hub/leetcode/tree/master/3524-find-x-value-of-array-i) |
@@ -171,10 +172,15 @@ Aditya Pratap Singh
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/adityapratapsingh-hub/leetcode/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/adityapratapsingh-hub/leetcode/tree/master/0231-power-of-two) |
 | [0389-find-the-difference](https://github.com/adityapratapsingh-hub/leetcode/tree/master/0389-find-the-difference) |
 | [0461-hamming-distance](https://github.com/adityapratapsingh-hub/leetcode/tree/master/0461-hamming-distance) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/adityapratapsingh-hub/leetcode/tree/master/0191-number-of-1-bits) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/adityapratapsingh-hub/leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
