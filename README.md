@@ -79,6 +79,7 @@ Aditya Pratap Singh
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/adityapratapsingh-hub/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3524-find-x-value-of-array-i](https://github.com/adityapratapsingh-hub/leetcode/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/adityapratapsingh-hub/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/adityapratapsingh-hub/leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -168,6 +169,7 @@ Aditya Pratap Singh
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/adityapratapsingh-hub/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/adityapratapsingh-hub/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/adityapratapsingh-hub/leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Bit Manipulation
 |  |
 | ------- |
