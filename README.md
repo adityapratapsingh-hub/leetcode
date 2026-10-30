@@ -145,6 +145,7 @@ Aditya Pratap Singh
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/adityapratapsingh-hub/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/adityapratapsingh-hub/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/adityapratapsingh-hub/leetcode/tree/master/3498-reverse-degree-of-a-string) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/adityapratapsingh-hub/leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Simulation
 |  |
 | ------- |
@@ -196,4 +197,16 @@ Aditya Pratap Singh
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/adityapratapsingh-hub/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Graph Theory
+|  |
+| ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/adityapratapsingh-hub/leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/adityapratapsingh-hub/leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Shortest Path
+|  |
+| ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/adityapratapsingh-hub/leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 <!---LeetCode Topics End-->
