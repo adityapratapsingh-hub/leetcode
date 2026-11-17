@@ -43,6 +43,7 @@ Aditya Pratap Singh
 ## Array
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/adityapratapsingh-hub/leetcode/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/adityapratapsingh-hub/leetcode/tree/master/0064-minimum-path-sum) |
 | [0835-image-overlap](https://github.com/adityapratapsingh-hub/leetcode/tree/master/0835-image-overlap) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/adityapratapsingh-hub/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -95,6 +96,7 @@ Aditya Pratap Singh
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/adityapratapsingh-hub/leetcode/tree/master/0056-merge-intervals) |
 | [0389-find-the-difference](https://github.com/adityapratapsingh-hub/leetcode/tree/master/0389-find-the-difference) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/adityapratapsingh-hub/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Linked List
@@ -210,4 +212,8 @@ Aditya Pratap Singh
 |  |
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/adityapratapsingh-hub/leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/adityapratapsingh-hub/leetcode/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
