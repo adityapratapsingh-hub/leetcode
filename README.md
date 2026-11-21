@@ -26,6 +26,7 @@ Aditya Pratap Singh
 | [0100-same-tree](https://github.com/adityapratapsingh-hub/leetcode/tree/master/0100-same-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/adityapratapsingh-hub/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/adityapratapsingh-hub/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/adityapratapsingh-hub/leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -33,6 +34,7 @@ Aditya Pratap Singh
 | [0100-same-tree](https://github.com/adityapratapsingh-hub/leetcode/tree/master/0100-same-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/adityapratapsingh-hub/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/adityapratapsingh-hub/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/adityapratapsingh-hub/leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Binary Tree
 |  |
 | ------- |
@@ -52,6 +54,7 @@ Aditya Pratap Singh
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/adityapratapsingh-hub/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/adityapratapsingh-hub/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/adityapratapsingh-hub/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/adityapratapsingh-hub/leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/adityapratapsingh-hub/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3524-find-x-value-of-array-i](https://github.com/adityapratapsingh-hub/leetcode/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/adityapratapsingh-hub/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -120,6 +123,7 @@ Aditya Pratap Singh
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/adityapratapsingh-hub/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/adityapratapsingh-hub/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/adityapratapsingh-hub/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/adityapratapsingh-hub/leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Sliding Window
 |  |
 | ------- |
@@ -147,6 +151,7 @@ Aditya Pratap Singh
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/adityapratapsingh-hub/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/adityapratapsingh-hub/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/adityapratapsingh-hub/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/adityapratapsingh-hub/leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3498-reverse-degree-of-a-string](https://github.com/adityapratapsingh-hub/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/adityapratapsingh-hub/leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Simulation
