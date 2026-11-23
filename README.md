@@ -48,6 +48,7 @@ Aditya Pratap Singh
 | [0056-merge-intervals](https://github.com/adityapratapsingh-hub/leetcode/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/adityapratapsingh-hub/leetcode/tree/master/0064-minimum-path-sum) |
 | [0835-image-overlap](https://github.com/adityapratapsingh-hub/leetcode/tree/master/0835-image-overlap) |
+| [1352-product-of-the-last-k-numbers](https://github.com/adityapratapsingh-hub/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/adityapratapsingh-hub/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/adityapratapsingh-hub/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/adityapratapsingh-hub/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -81,6 +82,7 @@ Aditya Pratap Singh
 | ------- |
 | [0009-palindrome-number](https://github.com/adityapratapsingh-hub/leetcode/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/adityapratapsingh-hub/leetcode/tree/master/0231-power-of-two) |
+| [1352-product-of-the-last-k-numbers](https://github.com/adityapratapsingh-hub/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/adityapratapsingh-hub/leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/adityapratapsingh-hub/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3524-find-x-value-of-array-i](https://github.com/adityapratapsingh-hub/leetcode/tree/master/3524-find-x-value-of-array-i) |
@@ -113,6 +115,7 @@ Aditya Pratap Singh
 ## Prefix Sum
 |  |
 | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/adityapratapsingh-hub/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/adityapratapsingh-hub/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/adityapratapsingh-hub/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Hash Table
@@ -221,4 +224,12 @@ Aditya Pratap Singh
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/adityapratapsingh-hub/leetcode/tree/master/0056-merge-intervals) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/adityapratapsingh-hub/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/adityapratapsingh-hub/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
