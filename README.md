@@ -59,6 +59,7 @@ Aditya Pratap Singh
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/adityapratapsingh-hub/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3524-find-x-value-of-array-i](https://github.com/adityapratapsingh-hub/leetcode/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/adityapratapsingh-hub/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3934-smallest-unique-subarray](https://github.com/adityapratapsingh-hub/leetcode/tree/master/3934-smallest-unique-subarray) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -98,6 +99,7 @@ Aditya Pratap Singh
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/adityapratapsingh-hub/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/adityapratapsingh-hub/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/adityapratapsingh-hub/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3934-smallest-unique-subarray](https://github.com/adityapratapsingh-hub/leetcode/tree/master/3934-smallest-unique-subarray) |
 ## Sorting
 |  |
 | ------- |
@@ -127,6 +129,7 @@ Aditya Pratap Singh
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/adityapratapsingh-hub/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/adityapratapsingh-hub/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/adityapratapsingh-hub/leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
+| [3934-smallest-unique-subarray](https://github.com/adityapratapsingh-hub/leetcode/tree/master/3934-smallest-unique-subarray) |
 ## Sliding Window
 |  |
 | ------- |
@@ -232,4 +235,16 @@ Aditya Pratap Singh
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/adityapratapsingh-hub/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/adityapratapsingh-hub/leetcode/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/adityapratapsingh-hub/leetcode/tree/master/3934-smallest-unique-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/adityapratapsingh-hub/leetcode/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
